@@ -45,7 +45,7 @@ export interface Project {
      shortDescription: "This is my first ever Desktop App",
      linkText: "Download",
      date: "Date: 13-02-2025",
-     lastUpdated: "Last Updated: 11-05-2025",
+     lastUpdated: "Last Updated: 05-12-2025",
    },
    {
      projectId: "snake-game",
