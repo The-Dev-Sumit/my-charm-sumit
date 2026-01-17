@@ -33,7 +33,7 @@ export interface Project {
    },
    {
      projectId: "codesnap-software",
-     title: "CodeSnap App",
+     title: "CodeSnap: Lightweight Code Editor",
      buttonUrl:
        "https://res.cloudinary.com/dmmzqpfgg/image/upload/v1749469283/arrow4_2_jzxece.png",
      videoUrl:
